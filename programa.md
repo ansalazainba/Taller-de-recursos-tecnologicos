@@ -1,3 +1,6 @@
+<!-- Header -->
+<span style="font-size:11px;">CEDART José Clemente Orozco - Mtro. Antonio Salazar Gómez | Copyright :copyright: Febrero de 2024</span>
+
 # :page_facing_up: Programa
 
 ## Propósito:
