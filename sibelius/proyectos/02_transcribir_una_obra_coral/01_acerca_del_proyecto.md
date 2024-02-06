@@ -19,9 +19,11 @@ Si desea conocer más detalles sobre Rafael Alberti, o Carlos Jiménez Mabarak, 
 
 # :bookmark_tabs: Índice
 
-1. [Acerca del proyecto.](./01_acerca_del_proyecto.md)
-2. [Crear una partitura coral.](./02_crear_partitura_coral.md)
-3. [Editar el encabezado.](./03_editar_encabezado.md)
+1. [Acerca del proyecto](./01_acerca_del_proyecto.md)
+2. [Crear una partitura coral](./02_crear_partitura_coral.md)
+3. [Editar el encabezado](./03_editar_encabezado.md)
+4. [Introducir notas](./04_introducir_notas.md)
+5. [Introducir texto](./05_introducir_texto.md)
 
 # :books: Referencias
 - [El virtuosismo formal de Rafael Alberti.](https://cdlmadrid.org/wp-content/uploads/2016/02/Generacion27II.pdf)
