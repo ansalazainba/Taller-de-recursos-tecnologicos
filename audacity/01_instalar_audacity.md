@@ -1,4 +1,4 @@
-# :book: 1. Instalar Audacity
+# :book: Instalar Audacity
 
 Para instalar audacity siga los siguientes pasos:
 

@@ -1,4 +1,5 @@
-# :book: 3. Ajustar Niveles de Volumen
+# :book: 
+Ajustar Niveles de Volumen
 
 - Los niveles de grabación y reproducción se pueden ajustar con los controles de deslizamiento desde la barra de herramientas:
 
