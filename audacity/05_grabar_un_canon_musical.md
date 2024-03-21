@@ -56,6 +56,25 @@
     |Fig. 7 Acomodar voz 3|
 
 
+10. Exporte el audio grabado.
+ 
+    - Abra el menú de **File** > **Export Audio...**   
+
+    ||
+    |:--:|
+    | ![i](img/export_01.png)|
+    |Fig. 8 Export Audio|
+
+    - Seleccione el  nombre del archivo y el directorio destino.
+
+    ||
+    |:--:|
+    | ![i](img/export_02.png)|
+    |Fig. 9 File name|
+
+    ' Presione el botón de **Export**   
+
+
 
 ## Herramientas para edición
 
