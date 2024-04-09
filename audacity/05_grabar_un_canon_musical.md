@@ -1,8 +1,21 @@
-# :book: Grabar un canon musical
+# :book: Agregar efectos de sonido a la grabación
 
 1. Abra la aplicación de Audacity.
 
-2. Cree un nuevo proyecto.
+2. Abra el último proyecto de audio.
+
+3. Seleccione el audio deseado.
+
+4. Abra el menú de efectos.
+
+5. Seleccione la opción de **Volume and Compression** > **Normalize** (Normalizar).
+
+> Ahora el volumen queda ajustado automaticamente.
+
+6. Vuelva a abrir el menú de **Effects** (Efectos).
+
+7. Seleccione la opción Delay and Reverb > Reverb (Reverberación)
+
 
     ||
     |:--:|
