@@ -1,7 +1,7 @@
 <!-- Header -->
-<span style="font-size:11px;">CEDART José Clemente Orozco - Mtro. Antonio Salazar Gómez | Copyright :copyright: Febrero de 2026</span>
+<span style="font-size:11px;">CEDART José Clemente Orozco - Mtro. Antonio Salazar Gómez | Copyright :copyright: Febrero de 2024</span>
 
-# :musical_keyboard: Taller de recursos tecnológicos 1 y 2
+# :musical_keyboard: Taller de recursos tecnológicos
 
 El siguiente sitio se ha dispuesto para gestionar y compartir notas acerca de herramientas tecnológicas que sirvan para propósitos de producción musical, tales como programas para grabación, edición y publicación de música.
 
@@ -45,7 +45,7 @@ Para conocer más de talles de la materia seleccione el [contenido del programa]
 13. Incrementar el tamaño de las notas.
 14. Importar y exportar partituras.
 
-### Referencias
+# :books: Referencias
 - [Video Tutoriales](https://www.youtube.com/playlist?list=PLimLiLz1JZA2yR8HOUxzqhgjScdjzcRhL)
 
 ## :sound: Audacity
