@@ -1,5 +1,5 @@
 <!-- Header -->
-<span style="font-size:11px;">CEDART José Clemente Orozco - Mtro. Antonio Salazar Gómez | Copyright :copyright: Febrero de 2024</span>
+<span style="font-size:11px;">CEDART José Clemente Orozco - Mtro. Antonio Salazar Gómez | Copyright :copyright: Febrero de 2026</span>
 
 # :musical_keyboard: Taller de recursos tecnológicos 1 y 2
 
@@ -8,12 +8,6 @@ El siguiente sitio se ha dispuesto para gestionar y compartir notas acerca de he
 Para conocer más de talles de la materia seleccione el [contenido del programa](programa.md).
 
 # :bookmark_tabs: Índice
-## :sound: Audacity
-1. [Instalar Audacity](audacity/01_instalar_audacity.md)
-2. [Activar el micrófono y grabar la voz](audacity/02_activar_micrófono.md)
-3. [Ajustar niveles de volumen](audacity/03_ajustar_niveles.md)
-4. [Grabar desde el escritorio](audacity/04_grabar_escritorio.md)
-
 ## :musical_score: Sibelius
 1. [Instalar Sibelius First](sibelius/proyectos/01_instalar_sibelius/01_instalar_sibelius.md)
 2. [Tareas comunes](#)
@@ -29,12 +23,49 @@ Para conocer más de talles de la materia seleccione el [contenido del programa]
 
 ### Proyectos
 1. [Transcribir una obra coral](sibelius/proyectos/02_transcribir_una_obra_coral/01_acerca_del_proyecto.md)
-
-
 2. [Transcribir una obra para piano](sibelius/proyectos/03_transcribir_una_obra_de_piano/01_acerca_del_proyecto.md)
 
 ### Solución a problemas 
 - [Sin sonido](sibelius/solucion_a_problemas/sin_sonido.md)
+
+
+## :musical_note: Flat.io
+1. Características principales de la herramienta.
+2. Utilizar MIDI para la escritura de notación musical.
+3. Insertar notas en la partitura.
+4. Utilizar plantillas y estilos.
+5. Consejos útiles de la barra de herramientas.
+6. Uso de la notación de acordes.
+7. Cómo utilizar instrumentos.
+8. Trabajar con voces.
+9. Añadir texto de canciones.
+10. Agregar comentarios.
+11. Utilizar digitación.
+12. Agregar números de compás.
+13. Incrementar el tamaño de las notas.
+14. Importar y exportar partituras.
+
+### Referencias
+- [Video Tutoriales](https://www.youtube.com/playlist?list=PLimLiLz1JZA2yR8HOUxzqhgjScdjzcRhL)
+
+## :sound: Audacity
+1. [Instalar Audacity](audacity/01_instalar_audacity.md)
+2. [Activar el micrófono y grabar la voz](audacity/02_activar_micrófono.md)
+3. [Ajustar niveles de volumen](audacity/03_ajustar_niveles.md)
+4. [Grabar desde el escritorio](audacity/04_grabar_escritorio.md)
+
+## :headphones: Online Sequencer
+1. [Registrarse en la aplicación](https://onlinesequencer.net/)
+2. Crear una nueva secuencia.
+    - Establecer el Tempo.
+    - Nombrar el archivo.
+    - Seleccionar instrumentos.
+    - Lógica del cuadriculado.
+    - Elegir el compás.
+    - Seleccionar, cortar, pegar y borrar.
+3. Exportar secuencia a formato MIDI.
+4. Importar secuencias MIDI.
+5. Realizar proyecto.
 
 # :books: Referencias
 - [Audacity ®](https://www.audacityteam.org/)
